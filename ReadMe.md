@@ -10,3 +10,4 @@ This a project trying  to guide stundents throughout [github](https://github.com
 
   - Bullet 1
   - Bullet 2
+  - Bullet 3
